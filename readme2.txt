@@ -1,0 +1,1 @@
+We've combined the power of the Following feed with the For you feed so there’s one place to discover content on GitHub.
